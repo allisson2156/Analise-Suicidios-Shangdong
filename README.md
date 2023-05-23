@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?Analise+Sob+Dados+de+Shangdong)](https://git.io/typing-svg)
 
-Este projeto visa analisar e visualizar os índices de suicídio na província de Shandong, China. Utilizando os dados disponíveis, são criados gráficos e visualizações que ajudam a compreender os padrões, tendências e insights relacionados aos casos de suicídio na região.
 
-Conjunto de Dados
+![Este projeto visa analisar e visualizar os índices de suicídio na província de Shandong, China  Utilizando os dados disponíveis, são criados gráficos e visualizações que ajudam a compreender os padrões, tendências ](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/b4736cd5-cbb1-4eda-b9ac-f3a6dada6a47)
+
+[Conjunto de Dados](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/276bb08e-ba5b-4b58-8d7c-0ed45a079676)
+
 O conjunto de dados utilizado neste projeto contém informações sobre os casos de suicídio em Shandong, China, incluindo variáveis como idade, gênero, ano, mês, método utilizado, entre outros. Os dados são fornecidos em formato CSV e estão localizados no arquivo suicide_data.csv.
 
-Bibliotecas Utilizadas
+![Bibliotecas Utilizadas](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/21b515a8-97b4-4609-8c08-887d8c193d16)
 Pandas: Utilizado para carregar e manipular os dados.
 Matplotlib: Utilizado para criar gráficos e visualizações.
 Seaborn: Utilizado para aprimorar a aparência dos gráficos.
