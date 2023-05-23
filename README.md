@@ -15,6 +15,7 @@ Matplotlib: Utilizado para criar gráficos e visualizações.
 Seaborn: Utilizado para aprimorar a aparência dos gráficos. 
 NumPy: Utilizado para realizar operações numéricas.
 <br>
+
 ![Visualizações](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/3e5ebf45-6fe3-4451-9420-aef0dfa160ad)
 
 Neste projeto, são criadas diversas visualizações para explorar os dados de suicídio em Shandong. Alguns exemplos de gráficos utilizados incluem:
@@ -24,7 +25,8 @@ Gráficos de Barras: Utilizados para comparar o número de casos de suicídio en
 Gráficos de Linha: Utilizados para acompanhar a tendência dos casos de suicídio ao longo dos anos.
 
 <br>
-![Insights Valiosos](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/30c06c67-889c-45a5-9e78-bbaff2048ce9)
+
+![Insights Valiosos (1)](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/6f0ab53a-0e1a-411a-8e1f-0d228df892d9)
 
 - A maioria das vitimas não são jovens. Possuem entre 40 e 70 anos
 - A maior quantidade das vitimas não chegou a ser hospitalizada 
