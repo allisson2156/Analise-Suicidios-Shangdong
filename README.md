@@ -1,4 +1,5 @@
-Visualização de Dados: Índices de Suicídio em Shandong, China
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Analise+Sob+Dados+de+Shangdong)](https://git.io/typing-svg)
+
 Este projeto visa analisar e visualizar os índices de suicídio na província de Shandong, China. Utilizando os dados disponíveis, são criados gráficos e visualizações que ajudam a compreender os padrões, tendências e insights relacionados aos casos de suicídio na região.
 
 Conjunto de Dados
