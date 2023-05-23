@@ -1,22 +1,27 @@
 
 
 ![Este projeto visa analisar e visualizar os índices de suicídio na província de Shandong, China  Utilizando os dados disponíveis, são criados gráficos e visualizações que ajudam a compreender os padrões, tendências ](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/b4736cd5-cbb1-4eda-b9ac-f3a6dada6a47)
-<br>
+
+
+
+
 
 ![Conjunto de Dados (1)](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/c7be25e6-2613-40fd-b986-fcf81b9a665f)
 
 O conjunto de dados utilizado neste projeto contém informações sobre os casos de suicídio em Shandong, China, incluindo variáveis como idade, gênero, ano, mês, método utilizado, entre outros. Os dados são fornecidos em formato CSV e estão localizados no arquivo suicide_data.csv.
-<br>
+
 
 ![Bibliotecas Utilizadas](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/21b515a8-97b4-4609-8c08-887d8c193d16)
+
 
 Pandas: Utilizado para carregar e manipular os dados.
 Matplotlib: Utilizado para criar gráficos e visualizações. 
 Seaborn: Utilizado para aprimorar a aparência dos gráficos. 
 NumPy: Utilizado para realizar operações numéricas.
-<br>
+
 
 ![Visualizações](https://github.com/allisson2156/Analise-Suicidios-Shangdong/assets/45903884/3e5ebf45-6fe3-4451-9420-aef0dfa160ad)
+
 
 Neste projeto, são criadas diversas visualizações para explorar os dados de suicídio em Shandong. Alguns exemplos de gráficos utilizados incluem:
 
